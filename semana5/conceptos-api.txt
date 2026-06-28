@@ -1,0 +1,10 @@
+¿Qué hace una ruta?
+define que debe responder el servidor cuando un
+usuario hace una solicitud a esaURL
+especifica,procesa lo que se necesite y devuelve una respuesta.
+¿Para qué podría servir en una aplicación comunitaria?
+En una app comunitaria una ruta como alertas podría servir para que los vecinos consulten
+reportes de seguridad daños en vías o cortos de agua otra ruta/reportes con post
+permitiría que cualquier persona envíe una alerta nueva con foto y descripción desde su celular
+así la comunidad tiene un canal directo y organizado 
+para comunicarse con líderes o entidades sin depender de Whatsapp o redes sociales.

@@ -1,0 +1,7 @@
+Las APIs ayudan a las comunidades a compartir información de forma organizada al funcionar como un puente estándar entre aplicaciones. 
+Definen un formato común para enviar reportes, alertas o datos con fecha, ubicación y categoría, evitando la desorganización. 
+Por ejemplo, una app puede enviar reportes de una vía dañada y una API los guarda en un mapa público automáticamente. 
+Esto permite centralizar toda la información en un solo lugar accesible para todos. 
+Además, varias organizaciones pueden usar la misma API sin duplicar sistemas. 
+Las APIs también gestionan permisos para proteger datos sensibles. 
+En resumen, organizan, centralizan y aseguran el intercambio de información comunitaria.

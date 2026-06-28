@@ -1,0 +1,8 @@
+Ruta http://localhost:3000 
+Respuesta: Muestra "Servidor activo"
+
+Ruta http://localhost:3000/saludo 
+Respuesta: Muestra "Hola comunidad"
+
+Ruta http://localhost:3000/mensaje/tuNombre 
+Respuesta: Muestra "Hola tu nombre". El :nombre se reemplaza por lo que pongas en la URL.
